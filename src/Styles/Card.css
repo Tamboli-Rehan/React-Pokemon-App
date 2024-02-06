@@ -1,0 +1,25 @@
+.Card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    background-color: black;
+}
+
+#Srno {
+    height: 100%;
+    width: 100%;
+}
+
+#PokemonImg {
+    height: 100%;
+    width: 100%;
+}
+
+#PokemonName {
+    height: 100%;
+    width: 100%;
+}
